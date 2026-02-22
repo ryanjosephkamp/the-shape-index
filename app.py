@@ -1320,6 +1320,53 @@ the curvature: they encode the same information as
 $(\kappa_1, \kappa_2)$ but in a more interpretable form.
         """)
 
+    # ── Section 12: References ──
+    with st.expander("12. References"):
+        st.markdown("""
+1. Koenderink, J. J. & van Doorn, A. J. (1992). Surface shape and
+   curvature scales. *Image and Vision Computing*, 10(8), 557–564.
+
+2. Fischer, E. (1894). Einfluss der Configuration auf die Wirkung
+   der Enzyme. *Berichte der deutschen chemischen Gesellschaft*,
+   27(3), 2985–2993.
+
+3. Koshland, D. E. (1958). Application of a theory of enzyme
+   specificity to protein synthesis. *Proceedings of the National
+   Academy of Sciences*, 44(2), 98–104.
+
+4. Connolly, M. L. (1983). Analytical molecular surface
+   calculation. *Science*, 221(4612), 709–713.
+
+5. Connolly, M. L. (1986). Shape complementarity at the hemoglobin
+   α₁β₁ subunit interface. *Biopolymers*, 25, 1229–1247.
+
+6. Lawrence, M. C. & Colman, P. M. (1993). Shape complementarity
+   at protein/protein interfaces. *Journal of Molecular Biology*,
+   234, 946–950.
+
+7. do Carmo, M. P. (1976). *Differential Geometry of Curves and
+   Surfaces*. Prentice-Hall.
+
+8. Meyer, M., Desbrun, M., Schröder, P. & Barr, A. H. (2003).
+   Discrete differential-geometry operators for triangulated
+   2-manifolds. *Visualization and Mathematics III*, 35–57.
+
+9. Bondi, A. (1964). van der Waals Volumes and Radii. *Journal of
+   Physical Chemistry*, 68(3), 441–451.
+
+10. Kyte, J. & Doolittle, R. F. (1982). A simple method for
+    displaying the hydropathic character of a protein. *Journal of
+    Molecular Biology*, 157(1), 105–132.
+
+11. Gauss, C. F. (1828). *Disquisitiones generales circa
+    superficies curvas*. Commentationes Societatis Regiae
+    Scientiarum Gottingensis Recentiores, 6, 99–146.
+
+12. Chern, S.-S. (1944). A simple intrinsic proof of the
+    Gauss–Bonnet formula for closed Riemannian manifolds.
+    *Annals of Mathematics*, 45(4), 747–752.
+        """)
+
     st.markdown(FOOTER, unsafe_allow_html=True)
 
 
